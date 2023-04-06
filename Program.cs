@@ -1,7 +1,12 @@
+using System.Runtime.InteropServices;
+
 namespace ExcelEditPro
 {
     internal static class Program
     {
+        public static string filePath = "";
+
+
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
